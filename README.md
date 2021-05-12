@@ -1,12 +1,18 @@
-# Java_SpringBoot_React_DSVendas
+# Projeto Java/SpringBoot/ReactJS DSVendas
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/flaviosmedeiros/Java_SpringBoot_React_DSVendas/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://flaviosmedeiros-dsvendas.netlify.app/
-
 Projeto desenvolvido durante Semana SpringBoot React da Academia DEVSuperior do professor Nélio Alves.
+
+## Layout mobile
+![Mobile 1](https://github.com/flaviosmedeiros/Images_to_Readme/blob/main/DSVendas/versao_mobile.png)
+
+
+## Layout web
+![Web 1](https://github.com/flaviosmedeiros/Images_to_Readme/blob/main/DSVendas/versao_web.png)
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -20,8 +26,8 @@ Projeto desenvolvido durante Semana SpringBoot React da Academia DEVSuperior do 
 - Apex Charts
 - Expo
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Backend: Heroku   = https://mede-dsvendas.herokuapp.com
+- Frontend: Netlify = https://flaviosmedeiros-dsvendas.netlify.app/
 - Banco de dados: Postgresql
 
 # Como executar o projeto
