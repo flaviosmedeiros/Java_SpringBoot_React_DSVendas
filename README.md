@@ -30,6 +30,8 @@ Projeto desenvolvido durante Semana SpringBoot React da Academia DEVSuperior do 
 - Frontend: Netlify = https://flaviosmedeiros-dsvendas.netlify.app/
 - Banco de dados: Postgresql
 
+Obs: Ao acessar a aplicação hospedada no Netlify, para visualizar os gráficos do Dashboard, aguarde certa de 40 segundos pois o backend demora a responder já que estar em conta gratuita do Heroku.
+
 # Como executar o projeto
 
 ## Back end
